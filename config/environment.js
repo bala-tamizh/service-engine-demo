@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   const ENV = {
-    modulePrefix: 'external-admin',
+    modulePrefix: 'service-engine',
     environment: environment
   }
 
